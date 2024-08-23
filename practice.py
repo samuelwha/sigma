@@ -36,4 +36,4 @@ def main():
         print("Invalid Input")
 
 if __name__ == "__main__":
-    main()
+    main(
